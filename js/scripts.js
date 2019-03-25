@@ -35,7 +35,7 @@ $(function(){
     finalString = string4.split("").reverse().join(""),
     alert(finalString)
   }
-alert(thisString(user))
+  alert(thisString(user))
 
   $("#img1").click(function() {
     alert(user)
